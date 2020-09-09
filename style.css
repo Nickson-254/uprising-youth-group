@@ -1,0 +1,20 @@
+.h1{
+    font-family:'Times New Roman', Times, serif;
+    background-color:blue;
+    padding:10px;
+
+}
+a:hover{color:blue;
+    background-color: hotpink;
+    text-decoration:none;
+    }
+.container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-image: url(https://unsplash.com/photos/dclPEtMVdK8);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
